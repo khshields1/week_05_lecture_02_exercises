@@ -37,3 +37,11 @@ function half (number) {
 }
 var result = half(100)
 console.log(result)
+
+// Exercise 6
+
+function difference (x, y) {
+  return x - y
+}
+var outPut = difference(385, 142)
+console.log(outPut)
