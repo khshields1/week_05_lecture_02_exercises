@@ -22,3 +22,10 @@ for (var i = 0; i <= 99; i++) {
     console.log(multiples[i])
   }
 }
+
+// Exercise 3
+
+var timeStamp = [new Date().valueOf()]
+for (var i = 0; i > timeStamp / 100; i++) {
+  console.log(timeStamp)
+}
