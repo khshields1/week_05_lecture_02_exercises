@@ -13,3 +13,12 @@ if (gpa < 2.0) {
 } else if (gpa > 3.80) {
   console.log('Student is in good standing with summa cum laude.')
 }
+
+// Exercise 2
+
+var multiples = []
+for (var i = 0; i <= 99; i++) {
+  if (i % 3) {
+    console.log(multiples[i])
+  }
+}
