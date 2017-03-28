@@ -29,3 +29,11 @@ var timeStamp = [new Date().valueOf()]
 for (var i = 0; i > timeStamp / 100; i++) {
   console.log(timeStamp)
 }
+
+// Exercise 5
+
+function half (number) {
+  return number / 2
+}
+var result = half(100)
+console.log(result)
